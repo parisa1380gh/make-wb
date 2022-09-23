@@ -1,13 +1,70 @@
-.img-fluid{
-
-    width: 100%;
-    margin-top:-140px; 
-
+    .img-fluid {
+        width: 100%;
+        margin-top: -140px;
+    }
     
-}
-.nav-item i{
-
-margin-right:15px;
-
-
-}
+    .nav-item i {
+        margin-right: 15px;
+    }
+    
+    .card {
+        float: inline-end;
+        margin-top: 40px;
+        margin: 0 2px;
+    }
+    
+    .card-list {
+        display: flex;
+        justify-content: space-around;
+        margin: 1rem 0;
+    }
+    
+    a {
+        width: 120px;
+    }
+    
+    .stars {
+        float: inline-end;
+        margin: 1rem 0;
+    }
+    
+    .card-header {
+        display: flex;
+        /* flex-direction: row-reverse; */
+        justify-content: space-around;
+        background: none;
+        border-bottom: none;
+        margin-bottom: 1rem;
+    }
+    
+    .icon {
+        float: inline-end;
+        justify-content: space-around;
+        display: flex;
+        margin-left: 50px;
+        margin-top: 60px;
+    }
+    
+    .icon1 {
+        float: inline-end;
+        justify-content: space-around;
+        display: flex;
+        margin-left: 50px;
+        margin-top: 60px;
+    }
+    
+    .icon2 {
+        float: inline-end;
+        justify-content: space-around;
+        display: flex;
+        margin-left: 50px;
+        margin-top: 60px;
+    }
+    
+    .icon3 {
+        float: inline-end;
+        justify-content: space-around;
+        display: flex;
+        margin-left: 50px;
+        margin-top: 60px;
+    }
