@@ -1,3 +1,12 @@
+    @font-face {
+        font-family: "IRANsans";
+        src: url("FontsFree-Net-ir_sans.ttf");
+    }
+    
+    * {
+        font-family: "IRANsans";
+    }
+    
     .img-fluid {
         width: 100%;
         margin-top: -140px;
@@ -107,4 +116,8 @@
         margin-top: 20px;
         font-size: 30px;
         text-decoration: underline red;
+    }
+    
+    footer {
+        margin-top: 20px;
     }
