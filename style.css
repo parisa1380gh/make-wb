@@ -113,13 +113,40 @@
     }
     
     footer {
-        margin-top: 20px;
+        margin-top: 40px;
         background: rgb(114, 114, 114);
         color: rgb(255, 255, 255);
+        height: auto;
     }
     
-    .icon {
-        margin-top: 21;
+    .aboutus {}
+    
+    .aboutus h2 {
+        margin-top: 60px;
+        margin-right: 40px;
+    }
+    
+    .aboutus-text {
+        margin-top: 20px;
+        margin-right: 40px;
+    }
+    
+    .social {
+        margin: 80px 10px 0 0;
+        padding: 0;
+        margin-left: 0;
+    }
+    
+    .social h5 {
+        font-size: 15px;
+    }
+    
+    .social-icon {
+        margin-top: 20px;
+        margin-left: 0;
         display: inline-block;
-        margin-left: 00;
+    }
+    
+    .social-icon i {
+        margin: 15px;
     }
